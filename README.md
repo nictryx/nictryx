@@ -1,6 +1,6 @@
-<div align="center">
 
-  <h1 align="center">Abdulrahman Hamed</h1>
+
+  <h1 align="center">## Abdulrahman Hamed</h1>
   
   ---
 
