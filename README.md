@@ -1,7 +1,6 @@
-<p align="center">
-  <a href="https://github.com/DenverCoder1">
-    <img src="https://user-images.githubusercontent.com/20955511/199138068-0a7b7b75-a024-4f00-803f-30a19c5d1b2d.png" alt="Abdulrahman Hamed" /></a>
-</p>
+<div align="center">
+
+  <h1 align="center">Abdulrahman Hamed</h1>
 
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=720&height=55&lines=Computer+%26+Network+Engineer;AI+%E2%80%A2+Software+%E2%80%A2+Hardware;Exploring+the+World+of+Technology" alt="Computer and Network Engineer, AI, software, and hardware" />
