@@ -1,6 +1,8 @@
 <div align="center">
 
   <h1 align="center">Abdulrahman Hamed</h1>
+  
+  ---
 
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=720&height=55&lines=Computer+%26+Network+Engineering;AI+%E2%80%A2+Software+%E2%80%A2+Hardware;Exploring+the+World+of+Technology" alt="Computer and Network Engineering, AI, software, and hardware" />
@@ -19,9 +21,7 @@
 </div>
 
 
- ## '01 / ABOUT ME'
-
----
+ ## `01 / ABOUT ME`
 
 I am a Computer and Network Engineer who builds practical projects across AI, machine learning, computer vision, robotics, embedded systems, brain-computer interfaces, FPGA design, IoT, web development, and autonomous systems.
 
