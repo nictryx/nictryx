@@ -33,24 +33,22 @@ I enjoy exploring the wider world of technology, learning across disciplines, an
 **Languages**
      
 <div display:flex>
+<img src="./assets/icons/PYTHON.svg" width="24" height="24" alt="PYTHON-Icon">
+<img src="./assets/icons/JAVA.svg" width="24" height="24" alt="JAVA-Icon">
+<img src="./assets/icons/C.svg" width="24" height="24" alt="C-Icon">
+<img src="./assets/icons/C_SHARP.svg" width="24" height="24" alt="CSHARP-Icon">
+<img src="./assets/icons/C_PLUS.svg" width="24" height="24" alt="CPLUS-Icon">
 <img src="./assets/icons/HTML.svg" width="24" height="24" alt="HTML-Icon">
 <img src="./assets/icons/CSS.svg" width="24" height="24" alt="CSS-Icon">
 <img src="./assets/icons/JAVASCRIPT.svg" width="24" height="24" alt="JAVASCRIPT-Icon">
 <img src="./assets/icons/TYPECRIPT.png" width="24" height="24" alt="TYPESCRIPT-Icon">
 <img src="./assets/icons/REACT.svg" width="24" height="24" alt="REACT-Icon">
 <img src="./assets/icons/NEXTJS.svg" width="24" height="24" alt="NEXTJS-Icon">
+<img src="./assets/icons/DART.svg" width="24" height="24" alt="DART-Icon">
+<img src="./assets/icons/ASSEMBLY.svg" width="24" height="24" alt="ASSEMBLY-Icon">
+<img src="./assets/icons/VERILOG.svg" width="24" height="24" alt="VERILOG-Icon"> 
+
 </div><br>
-
-Languages
-
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/Verilog-8A2BE2?style=for-the-badge" alt="Verilog" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-</p>
 
 AI & Computer Vision
 
