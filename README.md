@@ -28,7 +28,7 @@ I enjoy working across software and hardware, integrating AI into real systems, 
 
 I enjoy exploring the wider world of technology, learning across disciplines, and continuously expanding what I can build.
 
-02 / TECHNOLOGIES & FRAMEWORKS
+## `02 / SKILL SET`
 
 Languages
 
@@ -80,7 +80,7 @@ Development Tools
 
 </div>
 
-03 / FEATURED PROJECTS
+## `01 / FEATURED PROJECTS`
 
 <table>
   <tr>
