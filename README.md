@@ -33,8 +33,8 @@ I enjoy exploring the wider world of technology, learning across disciplines, an
 **Languages**
      
 <div display:flex>
-<img src="./assets/icons/PYTHON.svg" width="24" height="24" alt="PYTHON-Icon">
-<img src="./assets/icons/JAVA.svg" width="24" height="24" alt="JAVA-Icon">
+<img src="./assets/icons/PYTHON.webp" width="24" height="24" alt="PYTHON-Icon">
+<img src="./assets/icons/JAVA.webp" width="24" height="24" alt="JAVA-Icon">
 <img src="./assets/icons/C.svg" width="24" height="24" alt="C-Icon">
 <img src="./assets/icons/C_SHARP.svg" width="24" height="24" alt="CSHARP-Icon">
 <img src="./assets/icons/C_PLUS.svg" width="24" height="24" alt="CPLUS-Icon">
@@ -43,8 +43,8 @@ I enjoy exploring the wider world of technology, learning across disciplines, an
 <img src="./assets/icons/JAVASCRIPT.svg" width="24" height="24" alt="JAVASCRIPT-Icon">
 <img src="./assets/icons/TYPECRIPT.png" width="24" height="24" alt="TYPESCRIPT-Icon">
 <img src="./assets/icons/DART.webp" width="24" height="24" alt="DART-Icon">
-<img src="./assets/icons/ASSEMBLY.svg" width="24" height="24" alt="ASSEMBLY-Icon">
-<img src="./assets/icons/VERILOG.svg" width="24" height="24" alt="VERILOG-Icon"> 
+<img src="./assets/icons/ASSEMBLY.webp" width="24" height="24" alt="ASSEMBLY-Icon">
+<img src="./assets/icons/VERILOG.webp" width="24" height="24" alt="VERILOG-Icon"> 
 
 </div><br>
 
