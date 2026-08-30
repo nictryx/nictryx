@@ -22,6 +22,8 @@ I am a Computer and Network Engineer who builds practical projects across AI, ML
 
 I enjoy working across software and hardware, integrating AI into real systems, and turning ideas into functional prototypes through hands on development.
 
+I enjoy exploring the wider world of technology, learning across disciplines, and continuously expanding what I can build.
+
 
 02 / Technologies & Frameworks
 
