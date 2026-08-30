@@ -17,6 +17,7 @@
 </div>
 
 01 / About Me
+
 I am a Computer and Network Engineer who builds practical projects across AI, ML, computer vision, robotics, embedded systems, brain-computer interfaces, FPGA design, IoT, web development, and autonomous systems.
 
 I enjoy working across software and hardware, integrating AI into real systems, and turning ideas into functional prototypes through hands on development.
