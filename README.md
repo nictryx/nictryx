@@ -80,7 +80,7 @@ Development Tools
 
 </div>
 
-## `01 / FEATURED PROJECTS`
+## `03 / FEATURED PROJECTS`
 
 <table>
   <tr>
@@ -121,7 +121,7 @@ Development Tools
   </tr>
 </table>
 
-04 / GITHUB ACTIVITY
+## `04 / GITHUB ACTIVITY`
 
 <div align="center">
 
