@@ -66,7 +66,6 @@ I enjoy exploring the wider world of technology, learning across disciplines, an
 **Software**
 
 <p>
-  
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
@@ -74,18 +73,18 @@ I enjoy exploring the wider world of technology, learning across disciplines, an
   <img src="https://img.shields.io/badge/ThingsBoard-2A7DE1?style=for-the-badge" alt="ThingsBoard" />
   <img src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Microsoft Azure" />
   <img src="https://img.shields.io/badge/Microsoft_Power_Platform-742774?style=for-the-badge&logo=powerapps&logoColor=white" alt="Microsoft Power Platform" />
-
 </p>
 
 **Hardware**
 
 <p>
-  <img src="https://img.shields.io/badge/Arduino-00878F?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino" />
+  <img src="https://img.shields.io/badge/Arduino-00878F?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino Uno" />
   <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" alt="ESP32" />
   <img src="https://img.shields.io/badge/Artix--7_FPGA-8A2BE2?style=for-the-badge&logo=amd&logoColor=white" alt="Artix-7 FPGA" />
-  <img src="https://img.shields.io/badge/Dragon12--Plus-MC9S12DG256-CB2027?style=for-the-badge" alt="Dragon12-Plus MC9S12DG256" />
-  <img src="https://img.shields.io/badge/ROSMASTER_R2-22314E?style=for-the-badge&logo=ros&logoColor=white" alt="ROSMASTER R2" />
+  <img src="https://img.shields.io/badge/Dragon12--Plus-MC9S12DG256-CB2027?style=for-the-badge" alt="Dragon12-Plus" />
   <img src="https://img.shields.io/badge/Waspmote-2E8B57?style=for-the-badge" alt="Waspmote" />
+  <img src="https://img.shields.io/badge/ROSMASTER_R2-22314E?style=for-the-badge&logo=ros&logoColor=white" alt="ROSMASTER R2" />
+  <img src="https://img.shields.io/badge/DJI_Tello-000000?style=for-the-badge&logo=dji&logoColor=white" alt="DJI Tello" />
   <img src="https://img.shields.io/badge/Unicorn_Hybrid_Black-6A0DAD?style=for-the-badge" alt="Unicorn Hybrid Black BCI" />
 </p>
 
@@ -96,8 +95,16 @@ I enjoy exploring the wider world of technology, learning across disciplines, an
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
-  <img src="https://img.shields.io/badge/Xilinx_Vivado-E01F27?style=for-the-badge&logo=amd&logoColor=white" alt="Xilinx Vivado" />
+  <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor" />
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
+  <img src="https://img.shields.io/badge/Xilinx_Vivado-E01F27?style=for-the-badge&logo=amd&logoColor=white" alt="Xilinx Vivado" />
+  <img src="https://img.shields.io/badge/Arduino_IDE-00878F?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino IDE" />
+  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white" alt="Android Studio" />
+  <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white" alt="Visual Studio" />
+  <img src="https://img.shields.io/badge/Microchip_Studio-EE2A24?style=for-the-badge&logo=microchip&logoColor=white" alt="Microchip Studio" />
+  <img src="https://img.shields.io/badge/CodeWarrior-CC0000?style=for-the-badge" alt="CodeWarrior" />
+  <img src="https://img.shields.io/badge/Cisco_Packet_Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco Packet Tracer" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
 </p>
 
 <div align="center">
