@@ -17,20 +17,10 @@
 </div>
 
 01 / About Me
+I am a Computer and Network Engineer who builds practical projects across AI, ML, computer vision, robotics, embedded systems, brain-computer interfaces, FPGA design, IoT, web development, and autonomous systems.
 
-I am a Computer Engineer and Software Developer who builds practical projects across artificial intelligence, computer vision, robotics, embedded systems, FPGA design, IoT, and software development.
+I enjoy working across software and hardware, integrating AI into real systems, and turning ideas into functional prototypes through hands on development.
 
-I enjoy connecting software with real hardware, turning ideas into working prototypes, and learning through hands-on development.
-
-📍 Based in Egypt
-
-🤖 Building AI-powered applications and automation workflows
-
-👁️ Developing autonomous robotics and computer-vision systems
-
-⚙️ Designing embedded, IoT, and FPGA-based solutions
-
-🤝 Open to collaboration and new opportunities
 
 02 / Technologies & Frameworks
 
@@ -77,6 +67,8 @@ Development Tools
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
 </p>
+
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=nictryx&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 03 / Featured Projects
 
