@@ -18,6 +18,8 @@
 
 </div>
 
+---
+
 ## `01 / ABOUT ME`
 
 I am a Computer and Network Engineer who builds practical projects across AI, machine learning, computer vision, robotics, embedded systems, brain-computer interfaces, FPGA design, IoT, web development, and autonomous systems.
