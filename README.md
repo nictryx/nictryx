@@ -1,9 +1,9 @@
-<!-- Create a public repository named "nictryx" and save this file as README.md -->
-
 <div align="center">
 
+  <h1>Abdulrahman Hamed</h1>
+
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=760&height=70&lines=Hi%2C+I'm+Abdulrahman+Hamed;Computer+Engineer+%26+Software+Developer;AI+%E2%80%A2+Robotics+%E2%80%A2+Embedded+Systems;Turning+Ideas+into+Working+Systems" alt="Typing introduction" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=720&height=55&lines=Computer+Engineer+%26+Software+Developer;AI+%E2%80%A2+Robotics+%E2%80%A2+Embedded+Systems;Building+Useful+Software+%26+Hardware" alt="Computer Engineer and Software Developer" />
   </a>
 
   <p>
@@ -22,87 +22,113 @@ I am a Computer Engineer and Software Developer who builds practical projects ac
 
 I enjoy connecting software with real hardware, turning ideas into working prototypes, and learning through hands-on development.
 
-Based in Egypt 🇪🇬
+📍 Based in Egypt
 
-Building AI-powered applications and automation workflows
+🤖 Building AI-powered applications and automation workflows
 
-Developing autonomous robotics and computer-vision systems
+👁️ Developing autonomous robotics and computer-vision systems
 
-Designing embedded, IoT, and FPGA-based solutions
+⚙️ Designing embedded, IoT, and FPGA-based solutions
 
-Open to collaboration and new opportunities
+🤝 Open to collaboration and new opportunities
 
 02 / Technologies & Frameworks
 
 Languages
 
-
-
-
-
-
-
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/Verilog-8A2BE2?style=for-the-badge" alt="Verilog" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+</p>
 
 AI & Computer Vision
 
-
-
-
-
-
+<p>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
+  <img src="https://img.shields.io/badge/YOLOv5-00FFFF?style=for-the-badge&logo=yolo&logoColor=black" alt="YOLOv5" />
+  <img src="https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logo=groq&logoColor=white" alt="Groq" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+</p>
 
 Embedded Systems, Robotics & IoT
 
-
-
-
-
-
-
-
-
+<p>
+  <img src="https://img.shields.io/badge/Arduino-00878F?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino" />
+  <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" alt="ESP32" />
+  <img src="https://img.shields.io/badge/FPGA-8A2BE2?style=for-the-badge" alt="FPGA" />
+  <img src="https://img.shields.io/badge/Xilinx_Vivado-E01F27?style=for-the-badge&logo=amd&logoColor=white" alt="Xilinx Vivado" />
+  <img src="https://img.shields.io/badge/ROSMASTER_R2-22314E?style=for-the-badge&logo=ros&logoColor=white" alt="ROSMASTER R2" />
+  <img src="https://img.shields.io/badge/YDLIDAR-005BAC?style=for-the-badge" alt="YDLIDAR" />
+  <img src="https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=eclipsemosquitto&logoColor=white" alt="MQTT" />
+  <img src="https://img.shields.io/badge/ThingsBoard-2A7DE1?style=for-the-badge" alt="ThingsBoard" />
+</p>
 
 Development Tools
 
-
-
-
-
-
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
+</p>
 
 03 / Featured Projects
 
-<div align="center">
-
-  <a href="https://github.com/nictryx/ai-client-discovery-assistant">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=nictryx&repo=ai-client-discovery-assistant&theme=transparent&hide_border=true&title_color=58A6FF&text_color=8B949E&icon_color=F778BA" alt="AI Client Discovery Assistant" />
-  </a>
-  <a href="https://github.com/nictryx/smart-campus-iot-monitoring">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=nictryx&repo=smart-campus-iot-monitoring&theme=transparent&hide_border=true&title_color=58A6FF&text_color=8B949E&icon_color=F778BA" alt="Smart Campus IoT Monitoring" />
-  </a>
-  <a href="https://github.com/nictryx/rosmaster-r2-robotics-project">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=nictryx&repo=rosmaster-r2-robotics-project&theme=transparent&hide_border=true&title_color=58A6FF&text_color=8B949E&icon_color=F778BA" alt="ROSMASTER R2 Autonomous Perception" />
-  </a>
-  <a href="https://github.com/nictryx/voip-telegram-ai-chatbot">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=nictryx&repo=voip-telegram-ai-chatbot&theme=transparent&hide_border=true&title_color=58A6FF&text_color=8B949E&icon_color=F778BA" alt="Telegram AI Chatbot" />
-  </a>
-  <a href="https://github.com/nictryx/verilog-8x8-array-multiplier">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=nictryx&repo=verilog-8x8-array-multiplier&theme=transparent&hide_border=true&title_color=58A6FF&text_color=8B949E&icon_color=F778BA" alt="Verilog 8x8 Array Multiplier" />
-  </a>
-  <a href="https://github.com/nictryx/dragon12-smart-room-automation">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=nictryx&repo=dragon12-smart-room-automation&theme=transparent&hide_border=true&title_color=58A6FF&text_color=8B949E&icon_color=F778BA" alt="Dragon12 Smart Room Automation" />
-  </a>
-
-</div>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/nictryx/ai-client-discovery-assistant">AI Client Discovery Assistant</a></h3>
+      <p>Transforms potential-client project forms into structured discovery briefs for human review.</p>
+      <code>AI</code> <code>JavaScript</code> <code>Automation</code>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/nictryx/smart-campus-iot-monitoring">Smart Campus IoT Monitoring</a></h3>
+      <p>ESP32-based monitoring with sensors, MQTT telemetry, dashboards, and automated rules.</p>
+      <code>ESP32</code> <code>C++</code> <code>MQTT</code>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/nictryx/rosmaster-r2-robotics-project">ROSMASTER R2 Autonomous Perception</a></h3>
+      <p>Combines LiDAR, YOLOv5, object tracking, wall following, and autonomous movement.</p>
+      <code>Python</code> <code>YOLOv5</code> <code>LiDAR</code>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/nictryx/voip-telegram-ai-chatbot">Telegram AI Chatbot</a></h3>
+      <p>Groq-powered Telegram chatbot supporting text-to-text and voice-to-voice conversations.</p>
+      <code>Python</code> <code>Groq</code> <code>Telegram</code>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/nictryx/verilog-8x8-array-multiplier">Verilog 8×8 Array Multiplier</a></h3>
+      <p>Structural arithmetic unit that calculates Z = ¼(A × B) and runs on a Nexys 4 DDR FPGA.</p>
+      <code>Verilog</code> <code>FPGA</code> <code>Vivado</code>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/nictryx/dragon12-smart-room-automation">Dragon12 Smart Room Automation</a></h3>
+      <p>Embedded smart-room prototype with sensing, access control, alerts, and actuator automation.</p>
+      <code>Embedded C</code> <code>MC9S12</code> <code>Sensors</code>
+    </td>
+  </tr>
+</table>
 
 04 / GitHub Activity
 
 <div align="center">
 
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=nictryx&show_icons=true&include_all_commits=true&theme=transparent&hide_border=true&title_color=58A6FF&text_color=8B949E&icon_color=F778BA" alt="Abdulrahman's GitHub statistics" />
-  <img width="49%" src="https://streak-stats.demolab.com?user=nictryx&theme=transparent&hide_border=true&ring=58A6FF&fire=F778BA&currStreakLabel=58A6FF&sideLabels=8B949E&dates=8B949E" alt="Abdulrahman's GitHub streak" />
+  <p>
+    <a href="https://github.com/nictryx?tab=followers"><img src="https://img.shields.io/github/followers/nictryx?style=for-the-badge&logo=github&label=Followers&color=58A6FF" alt="GitHub followers" /></a>
+    <a href="https://github.com/nictryx?tab=repositories"><img src="https://img.shields.io/badge/Explore-Repositories-F778BA?style=for-the-badge&logo=github" alt="Explore repositories" /></a>
+  </p>
 
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nictryx&layout=compact&langs_count=8&theme=transparent&hide_border=true&title_color=58A6FF&text_color=8B949E" alt="Most-used languages" />
+  <img width="70%" src="https://streak-stats.demolab.com?user=nictryx&theme=transparent&hide_border=true&ring=58A6FF&fire=F778BA&currStreakLabel=58A6FF&sideLabels=8B949E&dates=8B949E" alt="Abdulrahman's GitHub streak" />
 
 </div>
 
