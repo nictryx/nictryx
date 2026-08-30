@@ -14,8 +14,6 @@
     <a href="mailto:abdulrahman2002hamed@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   </p>
 
-#  <img src="https://komarev.com/ghpvc/?username=nictryx&style=flat-square&color=58A6FF" alt="Profile views" />
-
 </div>
 
 
