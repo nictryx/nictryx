@@ -1,31 +1,32 @@
 <div align="center">
 
-<h1>Abdulrahman Hamed</h1>
+  <h1 align="center">Abdulrahman Hamed</h1>
 
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=720&height=55&lines=Computer+Engineer+%26+Software+Developer;AI+%E2%80%A2+Robotics+%E2%80%A2+Embedded+Systems;Building+Useful+Software+%26+Hardware" alt="Computer Engineer and Software Developer" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=720&height=55&lines=Computer+%26+Network+Engineering;AI+%E2%80%A2+Software+%E2%80%A2+Hardware;Exploring+the+World+of+Technology" alt="Computer and Network Engineering, AI, software, and hardware" />
   </a>
 
   <p>
-    <a href="https://github.com/nictryx"><img src="https://img.shields.io/badge/GitHub-nictryx-181717?style=for-the-badge&logo=github" alt="GitHub" /></a>
-    <a href="https://www.linkedin.com/in/abdulrahman-hamed-103841362/"><img src="https://img.shields.io/badge/LinkedIn-Abdulrahman_Hamed-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-    <a href="mailto:abdulrahman2002hamed@gmail.com"><img src="https://img.shields.io/badge/Email-Let's_Talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+    <a href="https://github.com/nictryx"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+    &nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://www.linkedin.com/in/abdulrahman-hamed-103841362/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    &nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="mailto:abdulrahman2002hamed@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   </p>
 
   <img src="https://komarev.com/ghpvc/?username=nictryx&style=flat-square&color=58A6FF" alt="Profile views" />
 
 </div>
 
-01 / About Me
+01 / ABOUT ME
 
-I am a Computer and Network Engineer who builds practical projects across AI, ML, computer vision, robotics, embedded systems, brain-computer interfaces, FPGA design, IoT, web development, and autonomous systems.
+I am a Computer and Network Engineer who builds practical projects across AI, machine learning, computer vision, robotics, embedded systems, brain-computer interfaces, FPGA design, IoT, web development, and autonomous systems.
 
-I enjoy working across software and hardware, integrating AI into real systems, and turning ideas into functional prototypes through hands on development.
+I enjoy working across software and hardware, integrating AI into real systems, and turning ideas into functional prototypes through hands-on development.
 
 I enjoy exploring the wider world of technology, learning across disciplines, and continuously expanding what I can build.
 
-
-02 / Technologies & Frameworks
+02 / TECHNOLOGIES & FRAMEWORKS
 
 Languages
 
@@ -71,9 +72,13 @@ Development Tools
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
 </p>
 
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=nictryx&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<div align="center">
 
-03 / Featured Projects
+  <img width="55%" src="https://github-readme-stats.shion.dev/api/top-langs/?username=nictryx&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Most-used languages" />
+
+</div>
+
+03 / FEATURED PROJECTS
 
 <table>
   <tr>
@@ -114,7 +119,7 @@ Development Tools
   </tr>
 </table>
 
-04 / GitHub Activity
+04 / GITHUB ACTIVITY
 
 <div align="center">
 
