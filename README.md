@@ -29,6 +29,18 @@ I enjoy exploring the wider world of technology, learning across disciplines, an
 
 ## `02 / SKILL SET`
 
+
+**Languages**
+     
+<div display:flex>
+<img src="./assets/icons/HTML.svg" width="24" height="24" alt="HTML-Icon">
+<img src="./assets/icons/CSS.svg" width="24" height="24" alt="CSS-Icon">
+<img src="./assets/icons/JAVASCRIPT.svg" width="24" height="24" alt="JAVASCRIPT-Icon">
+<img src="./assets/icons/TYPECRIPT.png" width="24" height="24" alt="TYPESCRIPT-Icon">
+<img src="./assets/icons/REACT.svg" width="24" height="24" alt="REACT-Icon">
+<img src="./assets/icons/NEXTJS.svg" width="24" height="24" alt="NEXTJS-Icon">
+</div><br>
+
 Languages
 
 <p>
