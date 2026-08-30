@@ -42,9 +42,7 @@ I enjoy exploring the wider world of technology, learning across disciplines, an
 <img src="./assets/icons/CSS.svg" width="24" height="24" alt="CSS-Icon">
 <img src="./assets/icons/JAVASCRIPT.svg" width="24" height="24" alt="JAVASCRIPT-Icon">
 <img src="./assets/icons/TYPECRIPT.png" width="24" height="24" alt="TYPESCRIPT-Icon">
-<img src="./assets/icons/REACT.svg" width="24" height="24" alt="REACT-Icon">
-<img src="./assets/icons/NEXTJS.svg" width="24" height="24" alt="NEXTJS-Icon">
-<img src="./assets/icons/DART.svg" width="24" height="24" alt="DART-Icon">
+<img src="./assets/icons/DART.webp" width="24" height="24" alt="DART-Icon">
 <img src="./assets/icons/ASSEMBLY.svg" width="24" height="24" alt="ASSEMBLY-Icon">
 <img src="./assets/icons/VERILOG.svg" width="24" height="24" alt="VERILOG-Icon"> 
 
