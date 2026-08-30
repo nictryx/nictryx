@@ -36,8 +36,8 @@ I enjoy exploring the wider world of technology, learning across disciplines, an
 <img src="./assets/icons/PYTHON.webp" width="24" height="24" alt="PYTHON-Icon">
 <img src="./assets/icons/JAVA.webp" width="24" height="24" alt="JAVA-Icon">
 <img src="./assets/icons/C.webp" width="24" height="24" alt="C-Icon">
-<img src="./assets/icons/C_SHARP.webp" width="24" height="24" alt="CSHARP-Icon">
-<img src="./assets/icons/C_PLUS.webp" width="24" height="24" alt="CPLUS-Icon">
+<img src="./assets/icons/C_SHARP.svg" width="24" height="24" alt="CSHARP-Icon">
+<img src="./assets/icons/C_PLUS.svg" width="24" height="24" alt="CPLUS-Icon">
 <img src="./assets/icons/HTML.svg" width="24" height="24" alt="HTML-Icon">
 <img src="./assets/icons/CSS.svg" width="24" height="24" alt="CSS-Icon">
 <img src="./assets/icons/JAVASCRIPT.svg" width="24" height="24" alt="JAVASCRIPT-Icon">
