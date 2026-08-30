@@ -78,13 +78,13 @@ I enjoy exploring the wider world of technology, learning across disciplines, an
 **Hardware**
 
 <p>
+  <img src="https://img.shields.io/badge/ROSMASTER_R2-22314E?style=for-the-badge&logo=ros&logoColor=white" alt="ROSMASTER R2" />
+  <img src="https://img.shields.io/badge/DJI_Tello-000000?style=for-the-badge&logo=dji&logoColor=white" alt="DJI Tello" />
   <img src="https://img.shields.io/badge/Arduino-00878F?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino Uno" />
   <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" alt="ESP32" />
   <img src="https://img.shields.io/badge/Artix--7_FPGA-8A2BE2?style=for-the-badge&logo=amd&logoColor=white" alt="Artix-7 FPGA" />
   <img src="https://img.shields.io/badge/Dragon12--Plus-MC9S12DG256-CB2027?style=for-the-badge" alt="Dragon12-Plus" />
   <img src="https://img.shields.io/badge/Waspmote-2E8B57?style=for-the-badge" alt="Waspmote" />
-  <img src="https://img.shields.io/badge/ROSMASTER_R2-22314E?style=for-the-badge&logo=ros&logoColor=white" alt="ROSMASTER R2" />
-  <img src="https://img.shields.io/badge/DJI_Tello-000000?style=for-the-badge&logo=dji&logoColor=white" alt="DJI Tello" />
   <img src="https://img.shields.io/badge/Unicorn_Hybrid_Black-6A0DAD?style=for-the-badge" alt="Unicorn Hybrid Black BCI" />
 </p>
 
