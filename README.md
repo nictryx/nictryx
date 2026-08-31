@@ -173,14 +173,3 @@ Development Tools
 
   <img width="70%" src="https://streak-stats.demolab.com?user=nictryx&theme=transparent&hide_border=true&ring=58A6FF&fire=F778BA&currStreakLabel=58A6FF&sideLabels=8B949E&dates=8B949E" alt="Abdulrahman's GitHub streak" />
 
-</div>
-
-<div align="center">
-
-  <h3>Let's build something useful.</h3>
-
-<a href="mailto:abdulrahman2002hamed@gmail.com">Email</a> •
-<a href="https://www.linkedin.com/in/abdulrahman-hamed-103841362/">LinkedIn</a> •
-<a href="https://github.com/nictryx">GitHub</a>
-
-</div>
