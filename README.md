@@ -111,6 +111,7 @@ I enjoy exploring the wider world of technology, learning across disciplines, an
   <img src="https://img.shields.io/badge/Multisim-005E9E?style=for-the-badge" alt="Multisim" />
   <img src="https://img.shields.io/badge/Tinkercad-D83B01?style=for-the-badge&logo=tinkercad&logoColor=white" alt="Tinkercad" />
   <img src="https://img.shields.io/badge/Digi_XCTU-FDB515?style=for-the-badge&logoColor=black" alt="Digi XCTU" />
+  <img src="https://img.shields.io/badge/SimulIDE-7C3AED?style=for-the-badge" alt="SimulIDE" />
 
 </p>
 
