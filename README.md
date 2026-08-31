@@ -105,7 +105,7 @@ Rather than limiting myself to one field, I explore the wider world of technolog
   <img src="https://img.shields.io/badge/Xilinx_Vivado-150458?style=for-the-badge&logo=amd&logoColor=white" alt="Xilinx Vivado" />
   <img src="https://img.shields.io/badge/Arduino_IDE-00878F?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino IDE" />
   <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white" alt="Android Studio" />
-  <img src="https://custom-icon-badges.demolab.com/badge/vscode-02569B?style=for-the-badge&logo=code&logoSource=feather&logoColor=white" alt="VS Code" />
+  <img src="https://custom-icon-badges.demolab.com/badge/VS_Code-02569B?style=for-the-badge&logo=vscode&logoSource=feather&logoColor=white" alt="VS Code" />
   <img src="https://custom-icon-badges.demolab.com/badge/CodeWarrior-8B1E3F?style=for-the-badge&logo=command&logoSource=feather&logoColor=white" alt="CodeWarrior" />
   <img src="https://custom-icon-badges.demolab.com/badge/Microchip_Studio-A9A9A9?style=for-the-badge&logo=cpu&logoSource=feather&logoColor=black" alt="Microchip Studio" />
   <img src="https://custom-icon-badges.demolab.com/badge/Simul--IDE-7C3AED?style=for-the-badge&logo=sliders&logoSource=feather&logoColor=white" alt="SimulIDE" />
