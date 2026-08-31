@@ -110,7 +110,7 @@ I enjoy exploring the wider world of technology, learning across disciplines, an
   <img src="https://img.shields.io/badge/Simul--IDE-7C3AED?style=for-the-badge" alt="SimulIDE" />
   <img src="https://img.shields.io/badge/Wokwi-22314E?style=for-the-badge&logo=wokwi&logoColor=white" alt="Wokwi" />
   <img src="https://img.shields.io/badge/Digi_XCTU-FFFF2E?style=for-the-badge&logoColor=black" alt="Digi XCTU" />
-  <img src="https://img.shields.io/badge/Multisim-005E9E?style=for-the-badge" alt="Multisim" />
+  <img src="https://img.shields.io/badge/Multisim-C19A6B?style=for-the-badge" alt="Multisim" />
 
   
 
