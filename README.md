@@ -55,8 +55,8 @@ I enjoy exploring the wider world of technology, learning across disciplines, an
 <p>
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
-  <img src="https://img.shields.io/badge/YOLOv5-00FFFF?style=for-the-badge&logo=yolo&logoColor=black" alt="YOLOv5" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=yolo&logoColor=black" alt="YOLO" />
+  <img src="https://img.shields.io/badge/NumPy-000000?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
   <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" alt="Matplotlib" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
   <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-learn" />
@@ -107,7 +107,7 @@ I enjoy exploring the wider world of technology, learning across disciplines, an
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
   <img src="https://img.shields.io/badge/CodeWarrior-CC0000?style=for-the-badge" alt="CodeWarrior" />
   <img src="https://img.shields.io/badge/Microchip_Studio-EE2A24?style=for-the-badge&logo=microchip&logoColor=white" alt="Microchip Studio" />
-  <img src="https://img.shields.io/badge/Simul_IDE-7C3AED?style=for-the-badge" alt="SimulIDE" />
+  <img src="https://img.shields.io/badge/Simul--IDE-7C3AED?style=for-the-badge" alt="SimulIDE" />
   <img src="https://img.shields.io/badge/Wokwi-7B2CBF?style=for-the-badge&logo=wokwi&logoColor=white" alt="Wokwi" />
   <img src="https://img.shields.io/badge/Digi_XCTU-FDB515?style=for-the-badge&logoColor=black" alt="Digi XCTU" />
   <img src="https://img.shields.io/badge/Multisim-005E9E?style=for-the-badge" alt="Multisim" />
