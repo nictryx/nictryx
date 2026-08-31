@@ -116,9 +116,9 @@ Development Tools
 
 <br>
 
-
+<div align="center">
   <img width="59%" src="https://github-readme-stats.shion.dev/api/top-langs/?username=nictryx&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact&card_width=460" alt="Most-used languages" />
-
+</div>
 
 <br>
 
@@ -168,8 +168,7 @@ Development Tools
 <div align="center">
 
   <p>
-    <a href="https://github.com/nictryx?tab=followers"><img src="https://img.shields.io/github/followers/nictryx?style=for-the-badge&logo=github&label=Followers&color=58A6FF" alt="GitHub followers" /></a>
-    <a href="https://github.com/nictryx?tab=repositories"><img src="https://img.shields.io/badge/Explore-Repositories-F778BA?style=for-the-badge&logo=github" alt="Explore repositories" /></a>
+    <a href="https://github.com/nictryx?tab=repositories"><img src="https://img.shields.io/badge/Explore Repositories-F778BA?style=for-the-badge&logo=github" alt="Explore repositories" /></a>
   </p>
 
   <img width="70%" src="https://streak-stats.demolab.com?user=nictryx&theme=transparent&hide_border=true&ring=58A6FF&fire=F778BA&currStreakLabel=58A6FF&sideLabels=8B949E&dates=8B949E" alt="Abdulrahman's GitHub streak" />
