@@ -9,29 +9,31 @@
   <p>
     <a href="https://github.com/nictryx"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
     &nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://www.linkedin.com/in/abdulrahman-hamed-103841362/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="https://www.linkedin.com/in/abdulrahman-hamed-103841362/"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=white" alt="LinkedIn" /></a>
     &nbsp;&nbsp;&nbsp;&nbsp;
     <a href="mailto:abdulrahman2002hamed@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   </p>
 
 </div>
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nictryx/nictryx/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nictryx/nictryx/output/pacman-contribution-graph.svg">
+  <img src="https://raw.githubusercontent.com/nictryx/nictryx/output/pacman-contribution-graph.svg" width="100%" alt="Pac-Man contribution graph" />
+</picture>
 
-
-## `01 / ABOUT ME`
+01 / ABOUT ME
 
 I am a Computer and Network Engineer who builds practical projects across AI, machine learning, computer vision, robotics, embedded systems, brain-computer interfaces, FPGA design, IoT, web development, and autonomous systems.
 
 I enjoy working across software and hardware, integrating AI into real systems, and turning ideas into functional prototypes through hands-on development.
 
-I enjoy exploring the wider world of technology, learning across disciplines, and continuously expanding what I can build.
+Rather than limiting myself to one field, I explore the wider world of technology, learn across disciplines, and continuously expand what I can build.
 
-## `02 / SKILL SET`
+02 / SKILL SET
 
+Languages
 
-**Languages**
-     
 <div display:flex>
 <img src="./assets/icons/PYTHON.webp" width="24" height="24" alt="PYTHON-Icon">
 <img src="./assets/icons/JAVA.webp" width="24" height="24" alt="JAVA-Icon">
@@ -47,11 +49,9 @@ I enjoy exploring the wider world of technology, learning across disciplines, an
 <img src="./assets/icons/VERILOG.webp" width="24" height="24" alt="VERILOG-Icon"> 
 <img src="./assets/icons/ASSEMBLY.webp" width="24" height="24" alt="ASSEMBLY-Icon">
 
-
 </div><br>
 
-
-**AI**
+AI
 
 <p>
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
@@ -66,7 +66,7 @@ I enjoy exploring the wider world of technology, learning across disciplines, an
 
 </p>
 
-**Software**
+Software
 
 <p>
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
@@ -78,7 +78,7 @@ I enjoy exploring the wider world of technology, learning across disciplines, an
   <img src="https://img.shields.io/badge/Microsoft_Power_Platform-742774?style=for-the-badge&logo=powerapps&logoColor=white" alt="Microsoft Power Platform" />
 </p>
 
-**Hardware**
+Hardware
 
 <p>
   <img src="https://img.shields.io/badge/ROSMASTER_R2-22314E?style=for-the-badge&logo=ros&logoColor=white" alt="ROSMASTER R2" />
@@ -91,7 +91,7 @@ I enjoy exploring the wider world of technology, learning across disciplines, an
   <img src="https://img.shields.io/badge/Unicorn_Hybrid_Black-00DC00?style=for-the-badge" alt="Unicorn Hybrid Black BCI" />
 </p>
 
-**Development Tools**
+Development Tools
 
 <p>
   <img src="https://img.shields.io/badge/Cursor-2B2D31?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor" />
@@ -114,13 +114,15 @@ I enjoy exploring the wider world of technology, learning across disciplines, an
   <img src="https://img.shields.io/badge/Multisim-C19A6B?style=for-the-badge" alt="Multisim" />
 </p>
 
+<br><br>
+
 <div align="center">
 
-  <img width="55%" src="https://github-readme-stats.shion.dev/api/top-langs/?username=nictryx&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Most-used languages" />
+  <img width="70%" src="https://github-readme-stats.shion.dev/api/top-langs/?username=nictryx&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact&card_width=600" alt="Most-used languages" />
 
 </div>
 
-## `03 / FEATURED PROJECTS`
+03 / FEATURED PROJECTS
 
 <table>
   <tr>
@@ -161,7 +163,7 @@ I enjoy exploring the wider world of technology, learning across disciplines, an
   </tr>
 </table>
 
-## `04 / GITHUB ACTIVITY`
+04 / GITHUB ACTIVITY
 
 <div align="center">
 
