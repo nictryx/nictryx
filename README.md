@@ -93,25 +93,26 @@ I enjoy exploring the wider world of technology, learning across disciplines, an
 **Development Tools**
 
 <p>
+  <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/Cisco_Packet_Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco Packet Tracer" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
-  <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
+  <img src="https://img.shields.io/badge/Cisco_Packet_Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco Packet Tracer" />
   <img src="https://img.shields.io/badge/Tinkercad-D83B01?style=for-the-badge&logo=tinkercad&logoColor=white" alt="Tinkercad" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=vscodium&logoColor=white" alt="VS Code" />
   <img src="https://img.shields.io/badge/Xilinx_Vivado-E01F27?style=for-the-badge&logo=amd&logoColor=white" alt="Xilinx Vivado" />
   <img src="https://img.shields.io/badge/Arduino_IDE-00878F?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino IDE" />
   <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white" alt="Android Studio" />
-  <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white" alt="Visual Studio" />
-  <img src="https://img.shields.io/badge/Microchip_Studio-EE2A24?style=for-the-badge&logo=microchip&logoColor=white" alt="Microchip Studio" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
   <img src="https://img.shields.io/badge/CodeWarrior-CC0000?style=for-the-badge" alt="CodeWarrior" />
-  <img src="https://img.shields.io/badge/Wokwi-7B2CBF?style=for-the-badge&logo=wokwi&logoColor=white" alt="Wokwi" />
-  <img src="https://img.shields.io/badge/Multisim-005E9E?style=for-the-badge" alt="Multisim" />
-  <img src="https://img.shields.io/badge/Digi_XCTU-FDB515?style=for-the-badge&logoColor=black" alt="Digi XCTU" />
+  <img src="https://img.shields.io/badge/Microchip_Studio-EE2A24?style=for-the-badge&logo=microchip&logoColor=white" alt="Microchip Studio" />
   <img src="https://img.shields.io/badge/Simul-IDE-7C3AED?style=for-the-badge" alt="SimulIDE" />
+  <img src="https://img.shields.io/badge/Wokwi-7B2CBF?style=for-the-badge&logo=wokwi&logoColor=white" alt="Wokwi" />
+  <img src="https://img.shields.io/badge/Digi_XCTU-FDB515?style=for-the-badge&logoColor=black" alt="Digi XCTU" />
+  <img src="https://img.shields.io/badge/Multisim-005E9E?style=for-the-badge" alt="Multisim" />
+
+  
 
 </p>
 
