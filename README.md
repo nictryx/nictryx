@@ -87,7 +87,7 @@ I enjoy exploring the wider world of technology, learning across disciplines, an
   <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" alt="ESP32" />
   <img src="https://img.shields.io/badge/Artix--7_FPGA-150458?style=for-the-badge&logo=amd&logoColor=white" alt="Artix-7 FPGA" />
   <img src="https://img.shields.io/badge/Dragon12--Plus-F7931E?style=for-the-badge" alt="Dragon12-Plus" />
-  <img src="https://img.shields.io/badge/Waspmote-E2D6E5?style=for-the-badge" alt="Waspmote" />
+  <img src="https://img.shields.io/badge/Waspmote-6A6B4E?style=for-the-badge" alt="Waspmote" />
   <img src="https://img.shields.io/badge/Unicorn_Hybrid_Black-6A0DAD?style=for-the-badge" alt="Unicorn Hybrid Black BCI" />
 </p>
 
