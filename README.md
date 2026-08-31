@@ -22,7 +22,7 @@
   <img src="https://raw.githubusercontent.com/nictryx/nictryx/output/pacman-contribution-graph.svg" width="100%" alt="Pac-Man contribution graph" />
 </picture>
 
-01 / ABOUT ME
+## `01 / ABOUT ME`
 
 I am a Computer and Network Engineer who builds practical projects across AI, machine learning, computer vision, robotics, embedded systems, brain-computer interfaces, FPGA design, IoT, web development, and autonomous systems.
 
@@ -30,9 +30,9 @@ I enjoy working across software and hardware, integrating AI into real systems, 
 
 Rather than limiting myself to one field, I explore the wider world of technology, learn across disciplines, and continuously expand what I can build.
 
-02 / SKILL SET
+## `02 / SKILL SET`
 
-Languages
+**Languages**
 
 <div display:flex>
 <img src="./assets/icons/PYTHON.webp" width="24" height="24" alt="PYTHON-Icon">
@@ -51,7 +51,7 @@ Languages
 
 </div><br>
 
-AI
+**AI**
 
 <p>
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
@@ -66,7 +66,7 @@ AI
 
 </p>
 
-Software
+**Software**
 
 <p>
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
@@ -78,7 +78,7 @@ Software
   <img src="https://custom-icon-badges.demolab.com/badge/Microsoft_Power_Platform-742774?style=for-the-badge&logo=workflow&logoColor=white" alt="Microsoft Power Platform" />
 </p>
 
-Hardware
+**Hardware**
 
 <p>
   <img src="https://img.shields.io/badge/ROSMASTER_R2-22314E?style=for-the-badge&logo=ros&logoColor=white" alt="ROSMASTER R2" />
@@ -91,7 +91,7 @@ Hardware
   <img src="https://custom-icon-badges.demolab.com/badge/Unicorn_Hybrid_Black-00DC00?style=for-the-badge&logo=activity&logoSource=feather&logoColor=black" alt="Unicorn Hybrid Black BCI" />
 </p>
 
-Development Tools
+**Development Tools**
 
 <p>
   <img src="https://img.shields.io/badge/Cursor-2B2D31?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor" />
@@ -116,13 +116,15 @@ Development Tools
 
 <br>
 
+<br>
+
 <div align="center">
   <img width="42.5%" src="https://github-readme-stats.shion.dev/api/top-langs/?username=nictryx&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact&card_width=325" alt="Most-used languages" />
 </div>
 
 <br>
 
-03 / FEATURED PROJECTS
+## `03 / FEATURED PROJECTS`
 
 <table>
   <tr>
@@ -170,7 +172,7 @@ Development Tools
   </p>
   </div>
 
-04 / GITHUB ACTIVITY
+## `04 / GITHUB ACTIVITY`
 
 <div align="center">
 
