@@ -22,7 +22,7 @@
   <img src="https://raw.githubusercontent.com/nictryx/nictryx/output/pacman-contribution-graph.svg" width="100%" alt="Pac-Man contribution graph" />
 </picture>
 
-## `01 / ABOUT ME`
+01 / ABOUT ME
 
 I am a Computer and Network Engineer who builds practical projects across AI, machine learning, computer vision, robotics, embedded systems, brain-computer interfaces, FPGA design, IoT, web development, and autonomous systems.
 
@@ -30,9 +30,9 @@ I enjoy working across software and hardware, integrating AI into real systems, 
 
 Rather than limiting myself to one field, I explore the wider world of technology, learn across disciplines, and continuously expand what I can build.
 
-## `02 / SKILL SET`
+02 / SKILL SET
 
-**Languages**
+Languages
 
 <div display:flex>
 <img src="./assets/icons/PYTHON.webp" width="24" height="24" alt="PYTHON-Icon">
@@ -51,7 +51,7 @@ Rather than limiting myself to one field, I explore the wider world of technolog
 
 </div><br>
 
-**AI**
+AI
 
 <p>
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
@@ -62,23 +62,23 @@ Rather than limiting myself to one field, I explore the wider world of technolog
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
   <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-learn" />
   <img src="https://img.shields.io/badge/MediaPipe-2E8B57?style=for-the-badge&logo=google&logoColor=white" alt="MediaPipe" />
-  <img src="https://img.shields.io/badge/OpenRouter-E4EDD0?style=for-the-badge" alt="OpenRouter" />
+  <img src="https://custom-icon-badges.demolab.com/badge/OpenRouter-E4EDD0?style=for-the-badge&logo=openrouter&logoColor=black" alt="OpenRouter" />
 
 </p>
 
-**Software**
+Software
 
 <p>
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
   <img src="https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST API" />
-  <img src="https://img.shields.io/badge/ThingsBoard-D0D5ED?style=for-the-badge" alt="ThingsBoard" />
-  <img src="https://img.shields.io/badge/Microsoft_Azure-1BA0D7?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Microsoft Azure" />
-  <img src="https://img.shields.io/badge/Microsoft_Power_Platform-742774?style=for-the-badge&logo=powerapps&logoColor=white" alt="Microsoft Power Platform" />
+  <img src="https://custom-icon-badges.demolab.com/badge/ThingsBoard-D0D5ED?style=for-the-badge&logo=bar-chart&logoSource=feather&logoColor=black" alt="ThingsBoard" />
+  <img src="https://custom-icon-badges.demolab.com/badge/Microsoft_Azure-1BA0D7?style=for-the-badge&logo=cloud&logoSource=feather&logoColor=white" alt="Microsoft Azure" />
+  <img src="https://custom-icon-badges.demolab.com/badge/Microsoft_Power_Platform-742774?style=for-the-badge&logo=workflow&logoColor=white" alt="Microsoft Power Platform" />
 </p>
 
-**Hardware**
+Hardware
 
 <p>
   <img src="https://img.shields.io/badge/ROSMASTER_R2-22314E?style=for-the-badge&logo=ros&logoColor=white" alt="ROSMASTER R2" />
@@ -86,12 +86,12 @@ Rather than limiting myself to one field, I explore the wider world of technolog
   <img src="https://img.shields.io/badge/Arduino_Uno-00878F?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino Uno" />
   <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" alt="ESP32" />
   <img src="https://img.shields.io/badge/Artix--7_FPGA-150458?style=for-the-badge&logo=amd&logoColor=white" alt="Artix-7 FPGA" />
-  <img src="https://img.shields.io/badge/Dragon12--Plus-F7931E?style=for-the-badge" alt="Dragon12-Plus" />
-  <img src="https://img.shields.io/badge/Waspmote-6A6B4E?style=for-the-badge" alt="Waspmote" />
-  <img src="https://img.shields.io/badge/Unicorn_Hybrid_Black-00DC00?style=for-the-badge" alt="Unicorn Hybrid Black BCI" />
+  <img src="https://custom-icon-badges.demolab.com/badge/Dragon12--Plus-F7931E?style=for-the-badge&logo=cpu&logoSource=feather&logoColor=white" alt="Dragon12-Plus" />
+  <img src="https://custom-icon-badges.demolab.com/badge/Waspmote-6A6B4E?style=for-the-badge&logo=radio&logoSource=feather&logoColor=white" alt="Waspmote" />
+  <img src="https://custom-icon-badges.demolab.com/badge/Unicorn_Hybrid_Black-00DC00?style=for-the-badge&logo=activity&logoSource=feather&logoColor=black" alt="Unicorn Hybrid Black BCI" />
 </p>
 
-**Development Tools**
+Development Tools
 
 <p>
   <img src="https://img.shields.io/badge/Cursor-2B2D31?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor" />
@@ -105,13 +105,13 @@ Rather than limiting myself to one field, I explore the wider world of technolog
   <img src="https://img.shields.io/badge/Xilinx_Vivado-150458?style=for-the-badge&logo=amd&logoColor=white" alt="Xilinx Vivado" />
   <img src="https://img.shields.io/badge/Arduino_IDE-00878F?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino IDE" />
   <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white" alt="Android Studio" />
-  <img src="https://img.shields.io/badge/VS_Code-02569B?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
-  <img src="https://img.shields.io/badge/CodeWarrior-8B1E3F?style=for-the-badge" alt="CodeWarrior" />
-  <img src="https://img.shields.io/badge/Microchip_Studio-A9A9A9?style=for-the-badge&logo=microchip&logoColor=white" alt="Microchip Studio" />
-  <img src="https://img.shields.io/badge/Simul--IDE-7C3AED?style=for-the-badge" alt="SimulIDE" />
-  <img src="https://img.shields.io/badge/Wokwi-22314E?style=for-the-badge&logo=wokwi&logoColor=white" alt="Wokwi" />
-  <img src="https://img.shields.io/badge/Digi_XCTU-FFFF2E?style=for-the-badge&logoColor=black" alt="Digi XCTU" />
-  <img src="https://img.shields.io/badge/Multisim-C19A6B?style=for-the-badge" alt="Multisim" />
+  <img src="https://custom-icon-badges.demolab.com/badge/VS_Code-02569B?style=for-the-badge&logo=code&logoSource=feather&logoColor=white" alt="VS Code" />
+  <img src="https://custom-icon-badges.demolab.com/badge/CodeWarrior-8B1E3F?style=for-the-badge&logo=command&logoSource=feather&logoColor=white" alt="CodeWarrior" />
+  <img src="https://custom-icon-badges.demolab.com/badge/Microchip_Studio-A9A9A9?style=for-the-badge&logo=cpu&logoSource=feather&logoColor=black" alt="Microchip Studio" />
+  <img src="https://custom-icon-badges.demolab.com/badge/Simul--IDE-7C3AED?style=for-the-badge&logo=sliders&logoSource=feather&logoColor=white" alt="SimulIDE" />
+  <img src="https://custom-icon-badges.demolab.com/badge/Wokwi-22314E?style=for-the-badge&logo=cpu&logoSource=feather&logoColor=white" alt="Wokwi" />
+  <img src="https://custom-icon-badges.demolab.com/badge/Digi_XCTU-FFFF2E?style=for-the-badge&logo=radio&logoSource=feather&logoColor=black" alt="Digi XCTU" />
+  <img src="https://custom-icon-badges.demolab.com/badge/Multisim-C19A6B?style=for-the-badge&logo=multisim&logoColor=white" alt="Multisim" />
 </p>
 
 <br>
@@ -122,7 +122,7 @@ Rather than limiting myself to one field, I explore the wider world of technolog
 
 <br>
 
-## `03 / FEATURED PROJECTS`
+03 / FEATURED PROJECTS
 
 <table>
   <tr>
@@ -170,7 +170,7 @@ Rather than limiting myself to one field, I explore the wider world of technolog
   </p>
   </div>
 
-## `04 / GITHUB ACTIVITY`
+04 / GITHUB ACTIVITY
 
 <div align="center">
 
