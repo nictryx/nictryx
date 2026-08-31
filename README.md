@@ -114,13 +114,15 @@ Development Tools
   <img src="https://img.shields.io/badge/Multisim-C19A6B?style=for-the-badge" alt="Multisim" />
 </p>
 
-<br><br>
+<br>
 
 <div align="center">
 
-  <img width="70%" src="https://github-readme-stats.shion.dev/api/top-langs/?username=nictryx&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact&card_width=600" alt="Most-used languages" />
+  <img width="52%" src="https://github-readme-stats.shion.dev/api/top-langs/?username=nictryx&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact&card_width=460" alt="Most-used languages" />
 
 </div>
+
+<br>
 
 03 / FEATURED PROJECTS
 
