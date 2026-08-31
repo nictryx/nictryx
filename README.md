@@ -48,7 +48,12 @@ Languages
 <img src="./assets/icons/DART.webp" width="24" height="24" alt="DART-Icon">
 <img src="./assets/icons/VERILOG.webp" width="24" height="24" alt="VERILOG-Icon"> 
 <img src="./assets/icons/ASSEMBLY.webp" width="24" height="24" alt="ASSEMBLY-Icon">
+  
+<div align="center">
 
+  <img width="58%" src="https://github-readme-stats.shion.dev/api/top-langs/?username=nictryx&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact&card_width=460" alt="Most-used languages" />
+
+</div>
 </div><br>
 
 AI
@@ -116,11 +121,7 @@ Development Tools
 
 <br>
 
-<div align="center">
 
-  <img width="58%" src="https://github-readme-stats.shion.dev/api/top-langs/?username=nictryx&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact&card_width=460" alt="Most-used languages" />
-
-</div>
 
 <br>
 
