@@ -87,7 +87,7 @@ Rather than limiting myself to one field, I explore the wider world of technolog
   <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" alt="ESP32" />
   <img src="https://img.shields.io/badge/Artix--7_FPGA-150458?style=for-the-badge&logo=amd&logoColor=white" alt="Artix-7 FPGA" />
   <img src="https://custom-icon-badges.demolab.com/badge/Dragon12--Plus-F7931E?style=for-the-badge&logo=cpu&logoSource=feather&logoColor=white" alt="Dragon12-Plus" />
-  <img src="https://custom-icon-badges.demolab.com/badge/Waspmote-6A6B4E?style=for-the-badge&logo=radio&logoSource=feather&logoColor=white" alt="Waspmote" />
+  <img src="https://custom-icon-badges.demolab.com/badge/Waspmote-6A6B4E?style=for-the-badge&logo=libelium&logoSource=feather&logoColor=white" alt="Waspmote" />
   <img src="https://custom-icon-badges.demolab.com/badge/Unicorn_Hybrid_Black-00DC00?style=for-the-badge&logo=activity&logoSource=feather&logoColor=black" alt="Unicorn Hybrid Black BCI" />
 </p>
 
