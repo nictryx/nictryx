@@ -100,6 +100,7 @@ I enjoy exploring the wider world of technology, learning across disciplines, an
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
   <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor" />
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
+  <img src="https://img.shields.io/badge/Tinkercad-D83B01?style=for-the-badge&logo=tinkercad&logoColor=white" alt="Tinkercad" />
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=vscodium&logoColor=white" alt="VS Code" />
   <img src="https://img.shields.io/badge/Xilinx_Vivado-E01F27?style=for-the-badge&logo=amd&logoColor=white" alt="Xilinx Vivado" />
   <img src="https://img.shields.io/badge/Arduino_IDE-00878F?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino IDE" />
@@ -109,9 +110,8 @@ I enjoy exploring the wider world of technology, learning across disciplines, an
   <img src="https://img.shields.io/badge/CodeWarrior-CC0000?style=for-the-badge" alt="CodeWarrior" />
   <img src="https://img.shields.io/badge/Wokwi-7B2CBF?style=for-the-badge&logo=wokwi&logoColor=white" alt="Wokwi" />
   <img src="https://img.shields.io/badge/Multisim-005E9E?style=for-the-badge" alt="Multisim" />
-  <img src="https://img.shields.io/badge/Tinkercad-D83B01?style=for-the-badge&logo=tinkercad&logoColor=white" alt="Tinkercad" />
   <img src="https://img.shields.io/badge/Digi_XCTU-FDB515?style=for-the-badge&logoColor=black" alt="Digi XCTU" />
-  <img src="https://img.shields.io/badge/SimulIDE-7C3AED?style=for-the-badge" alt="SimulIDE" />
+  <img src="https://img.shields.io/badge/Simul-IDE-7C3AED?style=for-the-badge" alt="SimulIDE" />
 
 </p>
 
