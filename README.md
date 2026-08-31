@@ -163,9 +163,12 @@ Development Tools
   </tr>
 </table>
 
+<div align="center">
+
   <p>
-    <a href="https://github.com/nictryx?tab=repositories"><img src="https://img.shields.io/badge/Explore Repositories-58A6FF?style=for-the-badge&logo=github" alt="Explore repositories" /></a>
+    <a href="https://github.com/nictryx?tab=repositories"><img src="https://img.shields.io/badge/Explore-Repositories-58A6FF?style=for-the-badge&logo=github" alt="Explore repositories" /></a>
   </p>
+  </div>
 
 04 / GITHUB ACTIVITY
 
@@ -173,3 +176,4 @@ Development Tools
 
   <img width="70%" src="https://streak-stats.demolab.com?user=nictryx&theme=transparent&hide_border=true&ring=58A6FF&fire=F778BA&currStreakLabel=58A6FF&sideLabels=8B949E&dates=8B949E" alt="Abdulrahman's GitHub streak" />
 
+  </div>
