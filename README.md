@@ -107,7 +107,7 @@ Rather than limiting myself to one field, I explore the wider world of technolog
   <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android Studio" />
   <img src="https://custom-icon-badges.demolab.com/badge/VS_Code-02569B?style=for-the-badge&logo=vscode&logoSource=feather&logoColor=white" alt="VS Code" />
   <img src="https://img.shields.io/badge/CodeWarrior-8B1E3F?style=for-the-badge&logo=codeblocks&logoSource=feather&logoColor=white" alt="CodeWarrior" />
-  <img src="https://custom-icon-badges.demolab.com/badge/Microchip_Studio-A9A9A9?style=for-the-badge&logo=cpu&logoSource=feather&logoColor=black" alt="Microchip Studio" />
+  <img src="https://custom-icon-badges.demolab.com/badge/Microchip_Studio-A9A9A9?style=for-the-badge&logo=microchip&logoSource=feather&logoColor=black" alt="Microchip Studio" />
   <img src="https://custom-icon-badges.demolab.com/badge/Simul--IDE-7C3AED?style=for-the-badge&logo=sliders&logoSource=feather&logoColor=white" alt="SimulIDE" />
   <img src="https://custom-icon-badges.demolab.com/badge/Wokwi-22314E?style=for-the-badge&logo=cpu&logoSource=feather&logoColor=white" alt="Wokwi" />
   <img src="https://custom-icon-badges.demolab.com/badge/Digi_XCTU-FFFF2E?style=for-the-badge&logo=radio&logoSource=feather&logoColor=black" alt="Digi XCTU" />
