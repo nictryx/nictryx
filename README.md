@@ -75,7 +75,7 @@ Rather than limiting myself to one field, I explore the wider world of technolog
   <img src="https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST API" />
   <img src="https://custom-icon-badges.demolab.com/badge/ThingsBoard-D0D5ED?style=for-the-badge&logo=bar-chart&logoSource=feather&logoColor=black" alt="ThingsBoard" />
   <img src="https://custom-icon-badges.demolab.com/badge/Microsoft_Azure-1BA0D7?style=for-the-badge&logo=azure&logoColor=white" alt="Microsoft Azure" />
-  <img src="https://custom-icon-badges.demolab.com/badge/Microsoft_Power_Platform-742774?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft Power Platform" />
+  <img src="https://custom-icon-badges.demolab.com/badge/Microsoft_Power_Platform-742774?style=for-the-badge&logo=microsoft&logoSource=feather&logoColor=white" alt="Microsoft Power Platform" />
 </p>
 
 **Hardware**
