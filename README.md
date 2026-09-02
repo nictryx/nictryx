@@ -109,7 +109,7 @@ Rather than limiting myself to one field, I explore the wider world of technolog
   <img src="https://img.shields.io/badge/CodeWarrior-8B1E3F?style=for-the-badge&logo=codeblocks&logoSource=feather&logoColor=white" alt="CodeWarrior" />
   <img src="https://custom-icon-badges.demolab.com/badge/Microchip_Studio-A9A9A9?style=for-the-badge&logo=microchip&logoSource=feather&logoColor=black" alt="Microchip Studio" />
   <img src="https://custom-icon-badges.demolab.com/badge/Simul--IDE-7C3AED?style=for-the-badge&logo=simulide&logoSource=feather&logoColor=white" alt="SimulIDE" />
-  <img src="https://custom-icon-badges.demolab.com/badge/Wokwi-22314E?style=for-the-badge&logo=cpu&logoSource=feather&logoColor=white" alt="Wokwi" />
+  <img src="https://custom-icon-badges.demolab.com/badge/Wokwi-22314E?style=for-the-badge&logo=wokwi&logoSource=feather&logoColor=white" alt="Wokwi" />
   <img src="https://custom-icon-badges.demolab.com/badge/Digi_XCTU-FFFF2E?style=for-the-badge&logo=radio&logoSource=feather&logoColor=black" alt="Digi XCTU" />
   <img src="https://custom-icon-badges.demolab.com/badge/Multisim-C19A6B?style=for-the-badge&logo=multisim&logoColor=white" alt="Multisim" />
 </p>
