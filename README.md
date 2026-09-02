@@ -63,6 +63,7 @@ Rather than limiting myself to one field, I explore the wider world of technolog
   <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-learn" />
   <img src="https://img.shields.io/badge/MediaPipe-2E8B57?style=for-the-badge&logo=google&logoColor=white" alt="MediaPipe" />
   <img src="https://custom-icon-badges.demolab.com/badge/OpenRouter-E4EDD0?style=for-the-badge&logo=openrouter&logoColor=black" alt="OpenRouter" />
+  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude" />
 
 </p>
 
