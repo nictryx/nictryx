@@ -129,40 +129,41 @@ Rather than limiting myself to one field, I explore the wider world of technolog
 
 <table>
   <tr>
+<td width="50%" valign="top">
+  <h3><a href="https://github.com/nictryx/lockedn-app">Lockedn Mobile Fitness App</a></h3>
+  <p>Developed a Flutter mobile fitness application using Google ML Kit for on-device pose detection, exercise-form feedback, repetition tracking, and live workout guidance.</p>
+  <code>Flutter</code> <code>Dart</code> <code>Google ML Kit</code> <code>Mobile AI</code>
+</td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/nictryx/ai-client-discovery-assistant">AI Client Discovery Assistant</a></h3>
-      <p>Transforms potential-client project forms into structured discovery briefs for human review.</p>
-      <code>AI</code> <code>JavaScript</code> <code>Automation</code>
+      <p>Built an AI-powered workflow that transforms prospective-client project submissions into structured discovery briefs for human review and meeting preparation.</p>
+      <code>JavaScript</code> <code>OpenRouter</code> <code>REST API</code> <code>AI</code>
+    </td>
+
+  <tr>
+     <td width="50%" valign="top">
+      <h3><a href="https://github.com/nictryx/tello-drone-security-camera-tracking">DJI Tello Security-Camera Tracking</a></h3>
+      <p>Developed a computer-vision flight-control pipeline that detects security cameras and autonomously adjusts the drone’s position and distance to track them.</p>
+      <code>Python</code> <code>YOLOv5</code> <code>OpenCV</code> <code>DJI Tello</code>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/nictryx/smart-campus-iot-monitoring">Smart Campus IoT Monitoring</a></h3>
-      <p>ESP32-based monitoring with sensors, MQTT telemetry, dashboards, and automated rules.</p>
-      <code>ESP32</code> <code>C++</code> <code>MQTT</code>
+      <h3><a href="https://github.com/nictryx/autonomous-obstacle-avoidance-vehicle">Smart Obstacle Avoidance Car</a></h3>
+      <p>Developed an ATmega328P-based autonomous vehicle using ultrasonic and infrared sensors for track following, obstacle detection, and PWM motor control.</p>
+      <code>Embedded C/C++</code> <code>ATmega328P</code> <code>Sensors</code> <code>PWM</code>
     </td>
   </tr>
+
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/nictryx/rosmaster-r2-robotics-project">ROSMASTER R2 Autonomous Perception</a></h3>
-      <p>Combines LiDAR, YOLOv5, object tracking, wall following, and autonomous movement.</p>
-      <code>Python</code> <code>YOLOv5</code> <code>LiDAR</code>
+      <h3><a href="https://github.com/nictryx/fpga-digital-clock-system">FPGA Digital Clock System</a></h3>
+      <p>Designed a configurable Verilog digital clock with clock division, time-setting controls, counters, and multiplexed seven-segment output on a Nexys 4 DDR FPGA.</p>
+      <code>Verilog</code> <code>FPGA</code> <code>Vivado</code> <code>RTL</code>
     </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/nictryx/voip-telegram-ai-chatbot">Telegram AI Chatbot</a></h3>
-      <p>Groq-powered Telegram chatbot supporting text-to-text and voice-to-voice conversations.</p>
-      <code>Python</code> <code>Groq</code> <code>Telegram</code>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/nictryx/verilog-8x8-array-multiplier">Verilog 8×8 Array Multiplier</a></h3>
-      <p>Structural arithmetic unit that calculates Z = ¼(A × B) and runs on a Nexys 4 DDR FPGA.</p>
-      <code>Verilog</code> <code>FPGA</code> <code>Vivado</code>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/nictryx/dragon12-smart-room-automation">Dragon12 Smart Room Automation</a></h3>
-      <p>Embedded smart-room prototype with sensing, access control, alerts, and actuator automation.</p>
-      <code>Embedded C</code> <code>MC9S12</code> <code>Sensors</code>
-    </td>
+ <td width="50%" valign="top">
+  <h3><a href="https://github.com/nictryx/smart-campus-iot-monitoring">Smart Campus IoT Monitoring</a></h3>
+  <p>Built an ESP32-based environmental and parking monitoring system with sensor telemetry, MQTT communication, ThingsBoard dashboards, and automated alerts.</p>
+  <code>ESP32</code> <code>C++</code> <code>MQTT</code> <code>ThingsBoard</code>
+</td>
   </tr>
 </table>
 
